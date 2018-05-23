@@ -1,6 +1,8 @@
 # Glioblast-Unity-2D-Game
+(src comming soon)
 
 Global Game Jam 2018 Submission
+
 Objective: Eliminate the tumor DR. PONGUS
 
 [Play Demo](https://jeanclaudeaoun.github.io/glioblast "Demo")
