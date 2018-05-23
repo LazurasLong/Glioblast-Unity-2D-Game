@@ -3,7 +3,7 @@
 Global Game Jam 2018 Submission
 Objective: Eliminate the tumor DR. PONGUS
 
-[Play Demo](https://jeanclaudeaoun.github.io "Demo")
+[Play Demo](https://jeanclaudeaoun.github.io/glioblast "Demo")
 
 This game is a small game made at a game jam just for fun (not maintained)
 
